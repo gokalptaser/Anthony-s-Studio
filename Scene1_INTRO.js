@@ -36,6 +36,7 @@ class Scene1 {
 	disable() {
 		this.s1_Start_Button.disable();
 		this.s1_Credits_Button.disable();
+  
 	}
 	
 	// ENABLE scene interaction
